@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bishakto Kaal
+
+This log tracks the cryptographic history and versioning for the song **Bishakto Kaal** (bishakto-kaal).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T08:38:49.948142 | `v1` | `0bba33527fe02b0b793df90ec51bd2870a90824554004f4f2e8f1a379a8be5f9` | `fe124907140bf43b64c433856498f2bd1552c1ec53a20c02d3b2a15272fcd44a` | `2026-05-16_bishakto-kaal-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

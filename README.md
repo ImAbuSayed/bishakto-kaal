@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bishakto-kaal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Bishakto Kaal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bishakto-kaal/) |
+| **Get License** | [Request Licensing for Bishakto Kaal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bishakto-kaal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0bba33527fe02b0b793df90ec51bd2870a90824554004f4f2e8f1a379a8be5f9` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
